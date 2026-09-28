@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.<br>🌱 I’m engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.<br>🌱 I’m engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.<br>⚡ Fun fact - I am not lazy and i'm smart
 
 
 ## 🌐 Socials:
